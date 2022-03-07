@@ -1,0 +1,7 @@
+.teclado {
+  width: 20rem;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0px;
+  margin: auto;
+}

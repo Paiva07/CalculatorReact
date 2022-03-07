@@ -1,0 +1,14 @@
+.display {
+  height: 5rem;
+  width: 20rem;
+  border: 2px solid grey;
+  border-radius: 10px;
+  color: black;
+  background-color: #eee;
+  margin: auto;
+  margin-top: 15px;
+  text-align: right;
+  font-size: 36px;
+  padding-top: 10px;
+  overflow: hidden;
+}
